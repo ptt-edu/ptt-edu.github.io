@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sterile Processing: Exploring The Training For Instrument Technician Profession</title>
+      <style>
+    body {
+      text-align: center;
+      font-family: "Roboto", sans-serif;
+      font-size: 16px;
+      font-weight: 300;
+      line-height: 26px;
+    }
+    .container {
+      width: 50%;
+      margin: 0 auto;
+      text-align: left;
+    }
+    .logo {
+      width: 20%;
+      margin-top: 30px;
+    }
+    h1 {
+      font-size: 40px;
+      font-weight: 400;
+      line-height: 55px;
+    }
+    .photo {
+      width: 50vw;
+    }
+    .space {
+      margin-top: 40px;
+      margin-bottom: 40px;
+    }
+  </style>
+  </head>
+  <body>
+    <div class="container">
+      <a href="https://ptt-edu.github.io/">
+        <img class="logo" src="/ptti-logo.png">
+      </a>
+      
+      <h1>Sterile Processing: Exploring The Training For Instrument Technician Profession
+</h1>
+  
+      <p>Discover the seamless transition in the sterile processing industry. Explore opportunities and ways to become an instrument tech after the proper training.
+</p>
+  
+      <img class="photo" src="/https://ptt.edu/wp-content/uploads/2020/12/sterile-processing-technician-certificate-program-sterile-processing-technician-schools-in-philadelphiasterile-processing-technician-training-in-philadelphia-pa2.jpg">
+  
+      <p>sterile technician classes for beginners in philadelphia,
+sterile technician vocational certifications in philadelphia,
+sterile technician certification programs in philadelphia,
+sterile technician  certification courses in philadelphia,
+sterile technician certification schools in philadelphia,
+sterile technician certification institute in philadelphia,
+sterile technician certification class in philadelphia,
+sterilization technician course in Spring garden,
+central processing services in philadelphia,
+sterile processing technician certificate program in lehigh avenue,
+</p>
+            
+    </div>
+    
+    <div class="space">
+        <p>
+          <b>Let's Connnect:</b> <a href="https://www.facebook.com/pttedu/">Facebook</a> | <a href="https://www.instagram.com/pttedu/">Instagram</a> | <a href="https://www.linkedin.com/company/philadelphia-technical-training-institute">LinkedIn</a> | <a href="https://www.youtube.com/channel/UClZ2pS_vQ9XzCKMdUgjw0GQ/videos">YouTube</a>
+          <br>
+            <b>Phone:</b> <a href="tel:+1215-381-9403">215-381-9403</a> | <b>Email:</b> <a href="mailto:info@ptt.edu">info@ptt.edu</a>
+          <br>
+        </p>
+      </div>
+      
+  </body>
+</html>
